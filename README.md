@@ -1,2 +1,2 @@
 # AquaPunch
-Jeu dans lequelv ous jouer de spoissons pour en tuer d'autres
+jeu multi FPS. Le joueur incarne un poisson !!
